@@ -34,4 +34,3 @@ console.log(nbr4 % nbr1);
 let nomSerie = prompt("Quelle est ta serie preferee ?");
 let nomPerso = prompt("Quelle est ton personnage favori ?")
 alert("Ma serie preferee est "+nomSerie+" et mon personnage est "+nomPerso);
-//test commit emoji
